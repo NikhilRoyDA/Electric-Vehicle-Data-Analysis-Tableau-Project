@@ -79,14 +79,10 @@ This project was an **eye-opener** on how data can shape business and policy dec
 
 ---
 
-## 🤝 Acknowledgments  
-A big shoutout to **Akash Raj** and the **CloudyML team** for their support in guiding my Tableau learning journey.  
-
----
 
 ## 🔗 Let’s Connect!  
-🚀 **Check out my LinkedIn Post:** [LinkedIn Link Here]  
-📊 **See this project live on my portfolio:** [Portfolio Link Here]  
+🚀 **Check out my LinkedIn Post:** [https://www.linkedin.com/in/nikhil-kumar-roy/]  
+📊 **See this project live on my portfolio:** [[Portfolio Link Here](https://www.datascienceportfol.io/nikhilroy744)]  
 
 Want to collaborate on data projects? Let’s talk! 🚀  
 
